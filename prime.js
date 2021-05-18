@@ -1,5 +1,5 @@
 const findPrime = () => {
-    const  num = 77239472309;
+    const  num = 774;
     found = true;
     if(num < 2){
         console.log(`${num} is not a prime number`);
